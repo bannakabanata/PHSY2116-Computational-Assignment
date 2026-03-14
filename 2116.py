@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 # In[102]:
 
 
-FILE = 'C:\\Users\\qiany\\Desktop\\EXOPLANET ARCHIVE.csv'
+FILE = 'EXOPLANET ARCHIVE.csv'
 
 
 # In[103]:
